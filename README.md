@@ -36,9 +36,10 @@ cd ~/Documents/Claude/Projects/Create\ Knowledge\ Graph\ System/server
 npm run dev
 
 # In another terminal:
-ngrok http 3000
-# Update the Grain webhook URL if the ngrok URL changed
+ngrok http 3000 --url=grain-vault.ngrok.app
 ```
+
+Static ngrok domain: `grain-vault.ngrok.app` (registered, no URL changes on restart).
 
 ## Decisions log
 
@@ -46,7 +47,7 @@ ngrok http 3000
 |---|---|---|
 | 2026-05-17 | Vault at /Users/Jeff/vault/ | Home root, no spaces, not in iCloud |
 | 2026-05-17 | Webhook server (not MCP polling) as primary ingestion | Real-time arrival, durable; matches Mike's setup |
-| 2026-05-17 | Hosting: local + ngrok | Jeff's preference; simplest path |
+| 2026-05-17 | Hosting: local + ngrok (grain-vault.ngrok.app) | Jeff's preference; static domain avoids URL changes |
 | 2026-05-17 | Sync mode: local-only | Server runs on same machine, direct file write |
 | 2026-05-17 | Listen for recording_added only | recording_updated fires on manual edits (noise) |
 | 2026-05-17 | Superpowers over GSD | Lower overhead for small frequent tasks |
