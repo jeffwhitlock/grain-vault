@@ -11,6 +11,11 @@ This is the top-level index of Jeff's personal knowledge graph. The compile-raw 
 - [[Knowledge Graph System]]
 - [[Engineering Decisions]]
 - [[Voice of the Customer]]
+- [[Grain MCP]]
+- [[Grain Sharing Model]]
+- [[Agentic AI]]
+- [[Design for Agents]]
+- [[Diarization]]
 
 ## People
 - [[Mike Adams]]
@@ -19,9 +24,19 @@ This is the top-level index of Jeff's personal knowledge graph. The compile-raw 
 - [[Ethan]]
 - [[Taylor]]
 - [[Ben]]
+- [[Carlos Almonte]]
+- [[Jonny Andreola]]
+- [[Ryan Johnson]]
+- [[Chris Naismith]]
+- [[Tucker von Holten]]
+- [[Elliot Levin]]
+- [[Ben DeMordaunt]]
 
 ## Companies
-(populated by compile)
+- [[Recall.ai]]
+- [[Fathom]]
+- [[AssemblyAI]]
+- [[DeepGram]]
 
 ## Projects
 (populated by compile)
