@@ -4,7 +4,14 @@ date: 2026-04-23T04:18:06Z
 duration: 80 min
 participants: []
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Board Context.md
+  - people/Mike Adams.md
+  - people/Jake Adams.md
+  - people/Ben DeMordaunt.md
+  - companies/Granola.md
 source: grain
 grain_id: 85195a99-2362-4c3b-a8e3-fa720fb0e704
 grain_url: https://grain.com/recordings/85195a99-2362-4c3b-a8e3-fa720fb0e704

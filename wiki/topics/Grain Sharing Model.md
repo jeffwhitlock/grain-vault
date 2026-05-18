@@ -24,5 +24,38 @@ This is driven partly by [[Grain MCP]] adoption increasing demand for broader co
 
 > MERGE CANDIDATE: [[Grain Strategy]] — sharing model rethink is a strategic initiative.
 
+## Update 2026-04-23 from [[2026-04-23_conversation-with-mike-feedback]]
+
+### LLM-driven sharing via markdown rules
+
+[[Mike Adams]] proposed replacing deterministic team-based sharing with heuristic-based LLM sharing. The model:
+- Admin defines sharing rules in a markdown file (e.g., "one-on-ones are never shared," "all-hands are shared with everyone")
+- An LLM agent interprets and applies rules, preserving reasoning traces
+- When sharing goes wrong, the markdown file is updated so it doesn't happen again
+
+> "What if you had markdown files in settings where these rules are defined... and it's just a set of heuristics and first principles for LLMs to follow to make judgment calls."
+
+### Sensitivity classification
+
+Meeting sensitivity could be classified automatically: personal, internal, external, highly sensitive. This would be an admin feature for business/enterprise plans.
+
+### Default team proposal
+
+Jeff proposed a quick win: create a default team where everyone is a member and everyone contributes. Add a simple rule: one-on-ones don't get shared. "That's two weeks of work."
+
+### Flip the sharing paradigm
+
+Instead of "nothing shared by default, add sharing rules to open up," flip to "everything shared by default, with a do-not-share list." This unlocks the [[Enterprise Expansion]] value of cross-meeting intelligence while reducing the cognitive load of configuring permissions.
+
+## Update 2026-05-15 from [[2026-05-15_strategy-session-5-15-26-capture-and-sharing]]
+
+### Capture-sharing integration
+
+The capture settings redesign discussion (see [[Capture and Recording]]) includes a sharing dimension: different capture methods have different consent properties. Bot capture includes explicit meeting consent/disclosure; desktop capture does not. This affects auto-share rules downstream.
+
+[[Mike Adams]] designed a flow-through model where capture method choices cascade into sharing behavior, surfaced in a unified settings page.
+
 ## Sources
 - raw/meetings/2026-05-15_carlos-almonte-and-jeff-whitlock.md
+- raw/meetings/2026-04-23_conversation-with-mike-feedback.md
+- raw/meetings/2026-05-15_strategy-session-5-15-26-capture-and-sharing.md

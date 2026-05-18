@@ -16,6 +16,11 @@ This is the top-level index of Jeff's personal knowledge graph. The compile-raw 
 - [[Agentic AI]]
 - [[Design for Agents]]
 - [[Diarization]]
+- [[PQL Pipeline]]
+- [[Capture and Recording]]
+- [[Enterprise Expansion]]
+- [[Voice Signatures]]
+- [[Entity Memory]]
 
 ## People
 - [[Mike Adams]]
@@ -31,12 +36,17 @@ This is the top-level index of Jeff's personal knowledge graph. The compile-raw 
 - [[Tucker von Holten]]
 - [[Elliot Levin]]
 - [[Ben DeMordaunt]]
+- [[Jake Adams]]
+- [[Jeff Hardison]]
+- [[Shane Howley]]
+- [[Ygor Castor]]
 
 ## Companies
 - [[Recall.ai]]
 - [[Fathom]]
 - [[AssemblyAI]]
 - [[DeepGram]]
+- [[Granola]]
 
 ## Projects
 (populated by compile)

@@ -4,7 +4,12 @@ date: 2026-04-23T05:03:59Z
 duration: 34 min
 participants: []
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Enterprise Expansion.md
+  - topics/Grain MCP.md
+  - topics/Board Context.md
 source: grain
 grain_id: fff944d7-db75-4d14-bad2-14a2277ce4cd
 grain_url: https://grain.com/recordings/fff944d7-db75-4d14-bad2-14a2277ce4cd

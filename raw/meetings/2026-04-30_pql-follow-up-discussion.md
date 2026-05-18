@@ -4,7 +4,11 @@ date: 2026-04-30T20:29:52Z
 duration: 104 min
 participants: ["Jeff Whitlock", "Mike Adams", "Ben DeMordaunt", "Jeff Hardison"]
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/PQL Pipeline.md
+  - people/Jeff Hardison.md
 source: grain
 grain_id: 5cd87d9b-05eb-48c9-9f65-48d2eaa3d1b4
 grain_url: https://grain.com/recordings/5cd87d9b-05eb-48c9-9f65-48d2eaa3d1b4

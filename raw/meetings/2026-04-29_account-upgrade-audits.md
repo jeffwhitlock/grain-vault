@@ -4,7 +4,12 @@ date: 2026-04-29T18:01:08Z
 duration: 55 min
 participants: ["Jeff Whitlock", "Mike Adams", "Ben DeMordaunt"]
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/PQL Pipeline.md
+  - topics/PLG Growth.md
+  - topics/Grain MCP.md
 source: grain
 grain_id: c32b8acc-cd7f-4f8e-afe7-d7c2277c8806
 grain_url: https://grain.com/recordings/c32b8acc-cd7f-4f8e-afe7-d7c2277c8806

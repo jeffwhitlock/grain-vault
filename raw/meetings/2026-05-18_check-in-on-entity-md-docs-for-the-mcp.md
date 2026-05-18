@@ -4,7 +4,13 @@ date: 2026-05-18T15:30:34Z
 duration: 0 min
 participants: []
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Entity Memory.md
+  - topics/Grain MCP.md
+  - people/Ygor Castor.md
+  - people/Shane Howley.md
 source: grain
 grain_id: 1e7e007d-04ee-450e-889a-1cce73540324
 grain_url: https://grain.com/recordings/1e7e007d-04ee-450e-889a-1cce73540324

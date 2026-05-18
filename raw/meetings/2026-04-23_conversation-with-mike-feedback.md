@@ -4,7 +4,12 @@ date: 2026-04-23T16:45:50Z
 duration: 43 min
 participants: []
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Grain Strategy.md
+  - topics/Grain Sharing Model.md
+  - people/Mike Adams.md
 source: grain
 grain_id: 97323d53-fd17-445c-a8ce-db63a9c6a4fc
 grain_url: https://grain.com/recordings/97323d53-fd17-445c-a8ce-db63a9c6a4fc

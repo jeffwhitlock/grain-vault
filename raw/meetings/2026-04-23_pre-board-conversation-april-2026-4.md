@@ -4,7 +4,11 @@ date: 2026-04-23T05:27:05Z
 duration: 11 min
 participants: []
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Board Context.md
+  - topics/Grain MCP.md
 source: grain
 grain_id: f2603ca9-974f-4e76-9205-8b32ac7a8aa1
 grain_url: https://grain.com/recordings/f2603ca9-974f-4e76-9205-8b32ac7a8aa1

@@ -4,7 +4,11 @@ date: 2026-03-02T22:02:51Z
 duration: 61 min
 participants: ["Jeff Whitlock", "Mike Adams", "Taylor Halversen-Bates", "Ben DeMordaunt", "Ryan Johnson", "Jake Bagley"]
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Grain Strategy.md
+  - topics/Grain MCP.md
 source: grain
 grain_id: b1670254-5cfd-4783-8827-97f8f7ed7463
 grain_url: https://grain.com/recordings/b1670254-5cfd-4783-8827-97f8f7ed7463

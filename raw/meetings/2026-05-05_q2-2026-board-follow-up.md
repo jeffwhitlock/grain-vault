@@ -4,7 +4,13 @@ date: 2026-05-05T20:31:11Z
 duration: 111 min
 participants: ["Jeff Whitlock", "Mike Adams", "Jake Adams", "Ben DeMordaunt", "Ryan Johnson"]
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Enterprise Expansion.md
+  - topics/Board Context.md
+  - topics/Voice Signatures.md
+  - people/Jake Adams.md
 source: grain
 grain_id: 00c622cf-ec41-42fd-9217-92737d1d58f5
 grain_url: https://grain.com/recordings/00c622cf-ec41-42fd-9217-92737d1d58f5

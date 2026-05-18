@@ -4,7 +4,13 @@ date: 2026-05-15T20:01:39Z
 duration: 71 min
 participants: ["Jeff Whitlock", "Mike Adams", "Ben DeMordaunt", "Ryan Johnson", "Jake Adams"]
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Capture and Recording.md
+  - topics/Grain Sharing Model.md
+  - people/Jake Adams.md
+  - people/Ryan Johnson.md
 source: grain
 grain_id: 3293e129-c57d-4a02-95bd-d74406419b8e
 grain_url: https://grain.com/recordings/3293e129-c57d-4a02-95bd-d74406419b8e

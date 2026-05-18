@@ -39,5 +39,27 @@ When asked by [[Ben DeMordaunt]] how to choose between Claude Code, Claude Desig
 - **Claude Design**: UI-heavy work, visual frameworks, infographics
 - **Superpowers framework**: replaced GSD ("super bloated") for project planning; breaks work into parts with plans for each
 
+## Update 2026-04-23 from [[2026-04-23_conversation-with-mike-feedback]] and pre-board conversations
+
+### Strategy clarity feedback
+
+Identified Jeff's translation gap as a core issue: Jeff sees strategy clearly in conversation but struggles to codify it in docs and communicate it to the team and market. Offered to collaborate on a strategy doc over two weeks.
+
+### Sharing model via markdown rules
+
+Proposed a paradigm shift: instead of deterministic team-based permissions, use LLM-driven heuristic sharing based on markdown rule files. Admins would define sharing rules in natural language. An agent would interpret and apply them, preserving reasoning traces.
+
+### PQL forensic audit approach
+
+Conducted hands-on Vistify account audit in [[2026-04-29_account-upgrade-audits]]. Diagnosed the entire self-serve upgrade flow as incoherent. Drove urgent framing: "The heavens parted and we have a chance again. We can't jog into it. We have to run into it."
+
+### EdTech venture consideration
+
+Candidly shared he's exploring a new EdTech startup through a venture studio (Gates Foundation grant). Focused on cognitive offloading in education. Estimated July as earliest incorporation. Said the Grain CEO possibility would rank above EdTech if the arrangement worked for both him and Jeff.
+
 ## Sources
 - raw/meetings/2026-05-15_agentic-workflows.md
+- raw/meetings/2026-04-23_conversation-with-mike-feedback.md
+- raw/meetings/2026-04-23_pre-board-conversation-april-2026-1.md
+- raw/meetings/2026-04-23_pre-board-conversation-april-2026-2.md
+- raw/meetings/2026-04-29_account-upgrade-audits.md

@@ -4,7 +4,11 @@ date: 2026-04-23T05:24:15Z
 duration: 14 min
 participants: []
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Board Context.md
+  - people/Shane Howley.md
 source: grain
 grain_id: 9dc80045-dc5e-43ea-91cf-421712c46183
 grain_url: https://grain.com/recordings/9dc80045-dc5e-43ea-91cf-421712c46183

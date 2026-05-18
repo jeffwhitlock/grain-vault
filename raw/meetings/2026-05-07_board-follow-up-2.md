@@ -4,7 +4,12 @@ date: 2026-05-07T20:32:42Z
 duration: 59 min
 participants: ["Jeff Whitlock", "Mike Adams", "Ryan Johnson"]
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - topics/Enterprise Expansion.md
+  - topics/Board Context.md
+  - people/Ryan Johnson.md
 source: grain
 grain_id: d8192c4a-3a8f-45df-979a-1c1f9ea7ff5e
 grain_url: https://grain.com/recordings/d8192c4a-3a8f-45df-979a-1c1f9ea7ff5e

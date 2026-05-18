@@ -4,7 +4,10 @@ date: 2026-05-18T16:29:48Z
 duration: 30 min
 participants: ["Browni", "Shane Howley", "Jeff Whitlock", "Chris Naismith", "Juan Ramón Fernandez", "Ygor Castor", "DEV: Andrew", "browni.wilson", "Thomas Tabi", "Diego Rojas Salvador", "Jonny Andreola", "Ryan Johnson", "Andrew Clarkson", "Jake Bagley", "taylor-old"]
 attended: true
-processed: false
+processed: true
+processed_at: 2026-05-18T17:42:33Z
+wiki_articles_touched:
+  - people/Ygor Castor.md
 source: grain
 grain_id: 90e0ac44-fd8c-472d-8c4f-e94d973dea94
 grain_url: https://grain.com/share/recording/90e0ac44-fd8c-472d-8c4f-e94d973dea94/OcPSPSAFbxLjS0HL2gfxmjqwOCbpJ37hFmzfycYw
